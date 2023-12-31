@@ -77,7 +77,7 @@ body {
 }
 
 .content__second {
-  margin-bottom: 10vh;
+  margin-bottom: 15vh;
 }
 .shaky-link {
   display: inline-block;
@@ -116,6 +116,9 @@ body {
   .main img {
     width: 100%;
     height: 100vh;
+  }
+  .content__second {
+    margin-bottom: 10vh;
   }
 }
 @media (max-height: 450px) {
